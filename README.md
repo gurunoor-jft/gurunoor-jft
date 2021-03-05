@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gurunoor-jft
 - 👀 I’m interested in coding, gaming and music.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on MERN stack.
+- 🌱 I’m currently learning MEAN stack.
+- 💞️ I’m looking to collaborate on MEAN stack.
 - 📫 How to reach me gurunoor.singh@jellyfishtechnologies.com
 
 <!---
